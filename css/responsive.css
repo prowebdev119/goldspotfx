@@ -1,0 +1,726 @@
+@media (min-width: 1919px) {
+ .container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1260px;
+    }  
+    
+.header-right {
+    margin-left: 30px;
+}
+.header-area.stick .header-right {
+    margin-left: 30px;
+}           
+    
+    
+    
+    
+    
+    
+	
+}
+
+@media (min-width: 1290px) and (max-width: 1500px) {
+    
+  .container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1260px;
+    }  
+    
+    
+    
+    
+    
+    
+}
+
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1290px) {
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.header_menu ul li {
+    margin-left: 15px;
+}
+.header-area.stick .header-right,
+.header-right {
+    margin-left: 25px;
+}
+.hd-btn {
+    padding: 0 15px;
+}  
+.title-2 {
+    font-size: 40px;
+    line-height: 52px;
+}    
+.title-1 {
+    font-size: 22px;
+    padding: 0px 6px;
+    margin-bottom: 0px;
+} 
+.intro-content {
+    margin-top: -80px;
+}    
+.slide-all-text {
+    margin-top: 0px;
+}        
+.support-services {
+    padding: 30px 15px 30px 15px;
+}    
+.support-content {
+    padding-left: 90px;
+}    
+.support-services .support-content h4 {
+    font-size: 20px;
+}    
+.left-headline h2 {
+    font-size: 40px;
+    line-height: 48px;
+}    
+.blog-content {
+    padding: 30px 20px;
+}    
+.subs-form {
+    padding: 0px 60px 40px;
+}
+.counter-image {
+    margin-right: 0px;
+    margin-top: 20px;
+}    
+.feature-inner {
+    margin-top: 0px;
+}       
+.support-content p {
+    font-size: 15px;
+}
+.counter-text .count {
+    font-size: 32px;
+}    
+.counter-text h4 {
+    font-size: 18px;
+}    
+.about-video {
+    margin-right: 10px;
+}    
+.top-price-inner h3 {
+    font-size: 26px;
+}    
+.testimonial-carousel.owl-carousel .owl-nav div.owl-next {
+    top: 104%;
+    left: -29%;
+}    
+.testimonial-carousel.owl-carousel .owl-nav div.owl-prev {
+    top: 104%;
+}    
+.contact-image {
+    margin-right: 0px;
+}    
+    
+    
+    
+    
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 992px) {
+.header-right {
+    margin-right: 80px;
+    padding: 15px 0px;
+}
+.mean-container a.meanmenu-reveal {
+    margin-top: -59px;
+}
+.mean-container .mean-nav {
+    margin-top: 0px;
+}    
+.intro-area{
+    float: none;
+    width: 100%;
+    height: 100%;
+    min-height: 500px;
+}
+.bg-wrapper,
+.bg-wrapper img {
+    width: 100%;
+    height: 100%;
+    min-height: 500px;
+    object-fit: cover;
+}
+.title-1 {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 0px;
+}    
+.title-2 {
+    font-size: 36px;
+    line-height: 44px;
+    margin: 10px 0px;
+}   
+.ready-btn {
+    color: #fff;
+    font-weight: 600;
+    padding: 13px 25px
+}    
+.slide-images {
+    margin-top: 20px;
+}
+.intro-content {
+    margin-top: -120px;
+}      
+.left-headline h2 {
+    font-size: 30px;
+    line-height: 40px;
+}            
+.counter-image {
+    margin-right: 0px;
+    margin-top: 30px;
+}     
+.diposite-box,
+.deposite-content {
+    max-width: 100%;
+    overflow-x: auto;
+}    
+.deposite-table {
+    min-width: 700px;
+}    
+.left-headline {
+    margin-right: 0px;
+}    
+.right-btn {
+    margin-right: 0px;
+}   
+.app-btn {
+    padding: 15px 20px 15px 45px;
+    font-size: 17px;
+}    
+.feature-images {
+    margin-top: 30px;
+}
+.subs-form {
+    padding: 0px 20px 50px;
+}    
+.subs-form input#email {
+    width: 65%;
+}    
+.subs-form button#submit {
+    width: 35%;
+}    
+.feature-inner {
+    margin-top: 0px;
+}  
+.footer-content{
+    margin-bottom: 40px;
+}      
+.counter-icon {
+    display: none;
+}    
+.counter-text h2 {
+    font-size: 36px;
+}    
+.counter-text h4 {
+    font-size: 20px;
+}
+.about-video {
+    margin-right: 0px;
+}    
+.choose-top h4 {
+    font-size: 22px;
+}    
+.choose-services {
+    padding: 30px 20px;
+}    
+.about-calculater {
+    margin-right: 0px;
+}    
+.about-calculater h3 {
+    font-size: 28px;
+}    
+.testimonial-carousel.owl-carousel .owl-nav div.owl-prev {
+    top: 97%;
+    left: -50%;
+}    
+.testimonial-carousel.owl-carousel .owl-nav div.owl-next {
+    top: 97%;
+}    
+.bread-pd {
+    padding: 180px 0px 110px;
+}    
+.about-page-text {
+    margin-left: 0px;
+    margin-top: 30px;
+}    
+.login-form {
+    margin: 0px 20px;
+}        
+.right-side {
+    padding-left: 0px;
+}    
+.left-blog-page {
+    padding: 20px 15px;
+}    
+.blog-search-option input {
+    width: 70%;
+}  
+.post-img {
+    display: none;
+}    
+.pst-content {
+    padding-left: 0px;
+}    
+.contact-single {
+    padding: 30px 30px;
+}
+.form-text{
+    position: relative;
+    max-width: 100%;
+    overflow-x: auto;
+}    
+.table-inner {
+    min-width: 700px;
+}     
+.user-info-inner_list li .caption {
+    width: 30%;
+}    
+.section-headline h2 {
+    font-size: 38px;
+    line-height: 44px;
+}    
+    
+    
+
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.topbar-area {
+    text-align: center;
+    padding: 10px 0px 20px;
+}    
+.topbar-left ul li a {
+    padding: 11px 0 5px;
+}
+.topbar-right {
+    float: none;
+}
+.header-menu-area{
+    padding: 15px 0px;
+}    
+.header-area.stick .logo a {
+    padding: 2px 0;
+}
+.intro-content {
+    margin-top: -120px;
+}
+.intro-bg{
+	display: none;
+}
+.intro-area{
+    float: none;
+    width: 100%;
+    height: 100%;
+    min-height: 660px;
+}
+.bg-wrapper,
+.bg-wrapper img {
+    width: 100%;
+    height: 100%;
+    min-height: 660px;
+    object-fit: cover;
+}
+.slide-all-text {
+    text-align: center;
+}
+.layer-1 {
+    margin-bottom: 15px;
+}
+.title-1 {
+    font-size: 20px;
+    margin-bottom: 0px;
+    line-height: 28px;
+}
+.title-2 {
+    font-size: 28px;
+    line-height: 40px;
+} 
+.ready-btn {
+    margin-top: 10px;
+} 
+.slide-images {
+    margin-top: 30px;
+    text-align: center;
+}
+.header-right {
+    display: none;
+}  
+.header-area.stick .logo a {
+    padding: 2px 0;
+} 
+.section-headline p {
+    width: auto;
+}    
+.section-headline h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.left-headline h2{
+font-size: 28px;
+line-height: 38px;
+}
+.footer-content {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+.support-services {
+    padding: 30px 10px 20px 15px;
+}    
+.support-images {
+    width: 60px;
+    height: 60px;
+}    
+.support-content {
+    padding-left: 85px;
+}
+.diposite-box,
+.deposite-content {
+    max-width: 100%;
+    overflow-x: auto;
+}    
+.deposite-table {
+    min-width: 700px;
+}    
+.deposite-content tr:nth-child(even){
+    width: 1000px; 
+}     
+.subscribe-inner {
+    padding: 80px 20px;
+    margin: 0px;
+    top: 80px;
+}    
+.footer-area {
+    padding: 180px 0 110px;
+}    
+.subs-form {
+    padding: 0px;
+    overflow: hidden;
+    margin-bottom: 40px;
+}    
+.subs-form button#submit {
+    width: 100%;
+    margin-top: 15px;
+}    
+.subs-form input#email {
+    width: 100%;
+    border-radius: 3px;
+}       
+.slide-images img {
+    width: 80%;
+    display: inline-block;
+    margin: 0px auto;
+} 
+.video-play.video-zone {
+    height: 60px;
+    width: 60px;
+    line-height: 58px;
+    font-size: 24px;
+}        
+.counter-image {
+    margin-right: 0px;
+    margin-bottom: 30px;
+}    
+.left-headline {
+    margin-right: 0px;
+}    
+.reviews-content {
+    margin-top: 40px;
+}    
+.right-btn {
+    margin-right: 0px;
+}    
+.app-btn {
+    padding: 15px 15px 15px 45px;
+    font-size: 15px;
+} 
+.app-btn::before {
+    left: 15px;
+    top: 13px;
+}
+.feature-content {
+    margin-top: 40px;
+}    
+.blog-content {
+    padding: 30px 20px;
+}
+.last-content {
+    margin-bottom: 0px;
+}
+.copyright {
+    text-align: center;
+}    
+.footer-menu {
+    text-align: center;
+    margin-top: 10px;
+}    
+.footer-menu ul li a {
+    padding: 0px 7px;
+}    
+.mar-0 {
+    margin-bottom: 30px;
+}       
+.single-fun {
+    padding: 30px 15px;
+    margin-bottom: 30px;
+}
+.counter-text h4 {
+    font-size: 22px;
+}    
+.counter-text .count {
+    font-size: 32px;
+}    
+.about-video {
+    margin-bottom: 40px;
+    margin-right: 0px;
+}    
+.about-area .owl-carousel .owl-item .support-images {
+    width: 70px;
+    height:70px;
+}  
+.support-services .support-content h4 {
+    font-size: 22px;
+}    
+.top-price-inner h3 {
+    font-size: 28px;
+}    
+.choose-services {
+    padding: 30px 20px;
+}    
+.choose-top h4 {
+    font-size: 22px;
+}    
+.single-how.first-item, .single-how.thired-item {
+    top: 0;
+}    
+.single-how{
+    margin-bottom: 30px;
+}    
+.how-to-area {
+    padding: 110px 0px 80px;
+}
+.payment-tab a.nav-link {
+    padding: 10px 10px;
+    font-size: 16px;
+    margin-right: 16px;
+}    
+.about-calculater {
+    margin-bottom: 40px;
+    margin-right: 0px;
+}   
+.profit-calculater-inner {
+    padding: 40px 20px;
+}    
+.review-head h2 {
+    font-size: 24px;
+    line-height: 32px;
+}    
+.review-head{
+    margin-bottom: 40px;
+}    
+.topbar-left ul li a {
+    margin-right: 10px;
+}    
+.breadcrumb-title h2 {
+    font-size: 30px;
+    line-height: 42px;
+}    
+.bread-pd {
+    padding: 250px 0px 110px;
+}    
+.contact-image {
+    margin-right: 0px;
+    margin-bottom: 40px;
+}    
+.contact-single {
+    padding: 30px 30px;
+}
+.contact-single h3 {
+    font-size: 28px;
+}    
+.company-faq {
+    margin-left: 0px;
+}    
+.faq_inner .card-header h4 button {
+    padding: 12px 30px 12px 15px;
+    font-size: 17px;
+}    
+.company-terms {
+    margin-right: 0px;
+}    
+.high-text {
+    font-size: 120px;
+    line-height: 140px;
+}       
+.error-easy-text {
+    font-size: 20px;
+}    
+.error-bot {
+    font-size: 17px;
+    line-height: 28px;
+}    
+.login-form {
+    padding: 40px 20px;
+    margin: 0px;
+} 
+.right-side {
+    padding-left: 0px;
+    padding-top: 40px;
+}    
+.left-blog-page {
+    padding: 20px 15px;
+}    
+.blog-search-option input {
+    width: 78%;
+}   
+.post-img {
+    padding-right: 10px;
+}
+.pst-content {
+    padding-left: 95px;
+}
+.blog-details .blog-content h3 {
+    font-size: 24px;
+    line-height: 34px;
+}
+blockquote {
+    padding: 30px 20px 20px 50px;
+}    
+blockquote::before {
+    top: 15px;
+    left: 10px;
+}    
+.blog-post-wrapper .blog-content h4 {
+    font-size: 20px;
+    line-height: 28px;
+}    
+.related-post-list .recent-single-post {
+    width: 100%;
+    float: none;
+    padding: 0px;
+}
+.post-img {
+    padding-right: 10px;
+}    
+.related-post-list .recent-single-post:last-child {
+    padding: 0px;
+}    
+.comments-details {
+    padding: 30px 10px;
+}    
+.comments-content-wrap {
+    padding-left: 98px;
+}    
+.comments-list-img {
+    margin-right: 15px;
+}    
+.threaded-comments {
+    margin-left: 15px;
+}    
+.pst-content p a {
+    font-size: 15px;
+}    
+.about-page-text {
+    margin-left: 0px;
+    margin-top: 30px;
+}    
+.about-page-text h2 {
+    font-size: 30px;
+}    
+.company-faq {
+    margin-left: 0px;
+}
+.company-faq-left {
+    margin-right: 0px;
+}
+.form-text{
+    position: relative;
+    max-width: 100%;
+    overflow-x: auto;
+}    
+.table-inner {
+    min-width: 700px;
+}    
+.search-option input {
+    width: 168px;
+}  
+.dashboard-side {
+    margin-bottom: 30px;
+}    
+.dashboard-right-menus li .notification-area {
+    left: -85px;
+}       
+.dashboard-right-menus>li:last-child {
+    display: none;
+}    
+.dashboard-header-right {
+    padding: 15px 10px;
+}    
+.user-info-inner {
+    padding: 30px 10px;
+} 
+.user-info-inner_header h3 {
+    font-size: 20px;
+}
+.user-info-inner_list li .value {
+    width: 60%;
+    padding-left: 15px;
+}    
+.user-info-inner_list li .caption {
+    text-align: left;
+    width: 40%;
+}    
+.user-info-inner_list li span {
+    font-size: 15px;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 400px) and (max-width: 767px) {
+
+.footer-area .col-md-4{
+    width: 50%;
+    float: left;
+}
+.user-info-inner {
+    padding: 30px 20px;
+}    
+.search-option input {
+    width: 240px;
+}    
+.user-info-inner_list li .value {
+    width: 67%;
+}
+.user-info-inner_list li .caption {
+    width: 33%;
+}    
+    
+    
+    
+    
+    
+    
+}

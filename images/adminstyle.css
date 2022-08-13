@@ -1,0 +1,111 @@
+form {	margin-top: 0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;}
+a.toplink, a.toplink:hover, a.toplink:visited, a.toplink:active {
+	color: white;
+	text-decoration: none;
+}
+.forCopyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #EDD1D7;
+}
+body, td, .forTexts {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.menutxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+    background-color: #FF8D00;
+}
+
+.inpts {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #FFFFF2;
+	border: 1px inset #FEE498;
+	border-color: #FF8D00;
+	border-style: solid;
+}
+.sbmt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #FFECB0;
+	border: 1px outset #FFFFE1;
+}
+.hlp {
+	font-size: 12px;
+	color: black;
+	text-decoration: none;
+	cursor: help;
+	position: relative;
+	display: inline-block;
+}
+.hlp[title]:after {
+	opacity: 0;
+	content: attr(title);
+	position: absolute;
+	top: 100%;
+	left: 0;
+	color: #fff;
+	transition: opacity 0.3s;
+	border-radius: 6px;
+	background-color: #555;
+	padding: 5px 5px;
+	width: 220px;
+	display: none;
+}
+.hlp[title]:hover:after {
+	opacity: 1;
+	display: inline-block;
+}
+
+/* ------------ pages ------------- */
+.pages {
+	text-align: center;
+	padding: 5px;
+}
+.pages a {
+	padding: 3px;
+}
+.pages b {
+	padding: 3px;
+}
+.error {
+	background: #FFEEEE;
+	padding: 3px 3px 3px 30px;
+	border: solid 1px red;
+	margin: 2px 0 2px 0;
+	color: #660000;
+	min-height: 20px;
+}
+.message {
+	background: #FFFFEE;
+	padding: 3px 3px 3px 30px;
+	border: solid 1px yellow;
+	margin: 2px 0 2px 0;
+	color: #333300;
+	min-height: 20px;
+}
+.ok {
+	background: #EEFFEE;
+	padding: 3px 3px 3px 30px;
+	border: solid 1px green;
+	margin: 2px 0 2px 0;
+	color: #006600;
+	min-height: 20px;
+}

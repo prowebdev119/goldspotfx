@@ -1,0 +1,15 @@
+[09-Aug-2022 08:52:19 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/goldainy/public_html/user-panel.php on line 8
+[09-Aug-2022 08:52:30 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/goldainy/public_html/user-panel.php on line 8
+[09-Aug-2022 08:52:48 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/goldainy/public_html/user-panel.php on line 8
+[10-Aug-2022 11:17:39 America/New_York] PHP Fatal error:  Call to undefined function session_abort() in /home/goldainy/public_html/logout.php on line 22
+[10-Aug-2022 11:18:20 America/New_York] PHP Fatal error:  Call to undefined function session_abort() in /home/goldainy/public_html/logout.php on line 22
+[10-Aug-2022 11:20:15 America/New_York] PHP Warning:  session_start(): Cannot start session with empty session ID in /home/goldainy/public_html/logout.php on line 12
+[10-Aug-2022 11:20:33 America/New_York] PHP Warning:  session_start(): Cannot start session with empty session ID in /home/goldainy/public_html/logout.php on line 12
+[10-Aug-2022 11:20:33 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/goldainy/public_html/logout.php on line 14
+[10-Aug-2022 11:20:36 America/New_York] PHP Warning:  session_start(): Cannot start session with empty session ID in /home/goldainy/public_html/logout.php on line 12
+[10-Aug-2022 11:20:36 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/goldainy/public_html/logout.php on line 14
+[10-Aug-2022 11:21:42 America/New_York] PHP Warning:  session_start(): Cannot start session with empty session ID in /home/goldainy/public_html/logout.php on line 12
+[10-Aug-2022 11:21:42 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/goldainy/public_html/logout.php on line 14
+[10-Aug-2022 11:22:09 America/New_York] PHP Warning:  session_start(): Cannot start session with empty session ID in /home/goldainy/public_html/logout.php on line 12
+[10-Aug-2022 11:22:09 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldainy/public_html/logout.php on line 13
+[10-Aug-2022 11:22:09 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/goldainy/public_html/logout.php on line 16

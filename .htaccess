@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# if there is a query string then redirect
+# /index.phtml to /index.php
+RewriteCond %{QUERY_STRING} .
+RewriteRule ^(?:index\.phtml)?$ /index.php [R,L,NC]
+
+# redirect landing page to /index.phtml
+RewriteRule ^$ /index.phtml [R=302,L]
+
+#RewriteCond %{QUERY_STRING} ^a=logout($|&)
+#RewriteRule ^index\.php$ /index.phtml? [L,R=301]
