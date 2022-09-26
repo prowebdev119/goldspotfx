@@ -344,7 +344,6 @@ p.help-block {
 	background: -o-linear-gradient(top, #6b9494 0%, #4d7e7a 100%); /* Opera 11.10+ */
 	background: -ms-linear-gradient(top, #6b9494 0%, #4d7e7a 100%); /* IE10+ */
 	background: linear-gradient(to bottom, #6b9494 0%, #4d7e7a 100%); /* W3C */
-	/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6b9494', endColorstr='#4d7e7a', GradientType=0); /* IE6-9 */
 	filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
 }
 .btn.green:active {
@@ -355,7 +354,6 @@ p.help-block {
 	background: -o-linear-gradient(top, #4d7e7a 0%, #6b9494 100%); /* Opera 11.10+ */
 	background: -ms-linear-gradient(top, #4d7e7a 0%, #6b9494 100%); /* IE10+ */
 	background: linear-gradient(to bottom, #4d7e7a 0%, #6b9494 100%); /* W3C */
-	/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4d7e7a', endColorstr='#6b9494', GradientType=0); /* IE6-9 */
 	filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
 }
 @media all and (min-width: 480px) {
