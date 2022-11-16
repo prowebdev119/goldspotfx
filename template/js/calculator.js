@@ -145,11 +145,4 @@ $(function(){
 	function pow1(amount,pow) {
 		return Math.round(amount*Math.pow(10, pow)).toFixed(0)/Math.pow(10, pow);
 	}
-
-
-	
 });
-
-
-
-	
