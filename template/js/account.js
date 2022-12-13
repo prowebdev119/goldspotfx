@@ -1,5 +1,5 @@
 $( window ).resize(function() {
-	var size = $(window).height()-150;
+	//var size = $(window).height()-150;
 	//$('.main-account').css({'min-height':size+'px'});
 });
 
